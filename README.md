@@ -4,11 +4,8 @@ A fully customizable neural network implemented from scratch that allows the use
 ## Table of Contents
 1. [Project Description](#project-description)
 2. [Features](#features)
-3. [Setup](#setup)
-4. [Usage](#usage)
-5. [Examples](#examples)
-6. [Results](#results)
-7. [Future Enhancements](#future-enhancements)
+3. [Installation](#Installation)
+
 
 ## Project Description
 This project implements a fully customizable neural network that can adjust its architecture (layers and neurons per layer) based on user input. The model is built entirely from scratch, without relying on major deep learning frameworks, showcasing a deep understanding of core neural network principles.
